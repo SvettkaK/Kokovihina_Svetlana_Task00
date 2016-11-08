@@ -28,7 +28,7 @@ namespace Task02
 
                     if (D < 0) Console.WriteLine("D<0 Уравнение не имеет корней");
 
-                    if (D == 0) Console.WriteLine("D=0 Уравнение имеет 2 одинаковых корня, X =" + (-b / (2 * a)));
+                    if (D == 0) Console.WriteLine("D=0 Уравнение имеет 2 одинаковых корня, X =" + (-b / (2 * a))); //todo лучше использовать вилку if else else. Код становится более читаемым.
 
                     if (D > 0)
                     {

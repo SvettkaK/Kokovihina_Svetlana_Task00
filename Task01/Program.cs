@@ -17,7 +17,7 @@ namespace Task01
 
         public double Length()//длина вектора
         {
-            return Math.Sqrt((x*x) + (y*y));//return Math.Sqrt(Math.Pow(x, 2) + Math.Pow(y, 2));
+            return Math.Sqrt((x*x) + (y*y));//return Math.Sqrt(Math.Pow(x, 2) + Math.Pow(y, 2));//todo перед отправкой задания весь закомментированный код удаляем, если только нет какой-то вопроса по этому участку кода
         }
 
         public double scalarProduct(Vector b)//скалярное произведение векторов
@@ -134,7 +134,7 @@ namespace Task01
                 if (sumAngle == 360 || sumAngle == 180 || y >= 1) res = true;
             }
 
-            return "Точка (" + x + ";" + y + ") " + (res == true ? "принадлежит" : "НЕ принадлежит") + " фигуре " + g;
+            return "Точка (" + x + ";" + y + ") " + (res == true ? "принадлежит" : "НЕ принадлежит") + " фигуре " + g;//todo со string.Format смотрелось бы лучше
         }
 
         static void Main(string[] args)
