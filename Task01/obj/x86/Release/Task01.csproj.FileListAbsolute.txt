@@ -1,0 +1,11 @@
+G:\External lab\task_0_1\Task01\bin\Release\Task01.exe
+G:\External lab\task_0_1\Task01\bin\Release\Task01.pdb
+G:\External lab\task_0_1\Task01\obj\x86\Release\Task01.exe
+G:\External lab\task_0_1\Task01\obj\x86\Release\Task01.pdb
+g:\External lab\Kokovihina_Svetlana_Task00\Task01\obj\x86\Release\Task01.exe
+g:\External lab\Kokovihina_Svetlana_Task00\Task01\obj\x86\Release\Task01.pdb
+g:\External-lab\Kokovihina_Svetlana_Task00\Task01\obj\x86\Release\Task01.exe
+g:\External-lab\Kokovihina_Svetlana_Task00\Task01\obj\x86\Release\Task01.pdb
+G:\External-lab\Kokovihina_Svetlana_Task00\Task01\obj\x86\Release\Task01.csprojResolveAssemblyReference.cache
+G:\External-lab\Kokovihina_Svetlana_Task00\Task01\bin\Release\Task01.exe
+G:\External-lab\Kokovihina_Svetlana_Task00\Task01\bin\Release\Task01.pdb

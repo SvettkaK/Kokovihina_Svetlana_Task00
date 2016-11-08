@@ -1,0 +1,4 @@
+G:\External-lab\Kokovihina_Svetlana_Task00\Task02\bin\Debug\Task02.exe
+G:\External-lab\Kokovihina_Svetlana_Task00\Task02\bin\Debug\Task02.pdb
+G:\External-lab\Kokovihina_Svetlana_Task00\Task02\obj\x86\Debug\Task02.exe
+G:\External-lab\Kokovihina_Svetlana_Task00\Task02\obj\x86\Debug\Task02.pdb
